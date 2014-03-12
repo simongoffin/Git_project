@@ -1,0 +1,1 @@
+print "C'est du Python"
